@@ -1,0 +1,28 @@
+_repo: The-Tale-of-LalA-Fantasy_26869
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paton, Raymond
+    gutenberg_agent_id: '32287'
+    url: http://www.gutenberg.org/2009/agents/32287
+description: ''
+gutenberg_issued: '2008-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'London (England) -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+title: 'The Tale of Lal
+
+  A Fantasy'
+url: http://www.gutenberg.org/ebooks/26869
